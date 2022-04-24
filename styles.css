@@ -57,16 +57,10 @@ body {
 
 .products {
   padding: 4rem 0;
-}
-.section-title h2 {
-  text-align: center;
-  font-size: 2.5rem;
-  margin-bottom: 5rem;
-  text-transform: capitalize;
-  letter-spacing: var(--mainSpacing);
+
 }
 .products-center {
-  width: 90vw;
+  width: 150vw;
   margin: 0 auto;
   max-width: 1170px;
   display: grid;
