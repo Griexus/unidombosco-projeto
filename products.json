@@ -27,7 +27,7 @@
     {
       "sys": { "id": "4" },
       "fields": {
-        "title": "Ford Falcon 'Inteceptor' 1974",
+        "title": "Ford Falcon 'Interceptor' 1974",
         "price": 27999.99,
         "image": { "fields": { "file": { "url": "./images/interceptorok.png" } } }
       }
@@ -37,7 +37,7 @@
       "fields": {
         "title": "Aston Martin  DB5 1963",
         "price": 79999.99,
-        "image": { "fields": { "file": { "url": "./images/007ok.png" } } }
+        "image": { "fields": { "file": { "url": "./images/007ok.jpg" } } }
       }
     },
     {
@@ -45,7 +45,7 @@
       "fields": {
         "title": "Volkswagen Beetle 'Herbie' 1963",
         "price": 32.99,
-        "image": { "fields": { "file": { "url": "./images/herbie.png" } } }
+        "image": { "fields": { "file": { "url": "./images/herbieok.png" } } }
       }
     },
     {
@@ -53,13 +53,13 @@
       "fields": {
         "title": "Pontiac Trans AM 'Super Máquina' 1982",
         "price": 55999.99,
-        "image": { "fields": { "file": { "url": "./images/supermaquina.png" } } }
+        "image": { "fields": { "file": { "url": "./images/supermaquinaok.jpg" } } }
       }
     },
     {
       "sys": { "id": "8" },
       "fields": {
-        "title": "Ford Econoline 'Máquina do Mistério' 1963",
+        "title": "Ford Econoline 'Máquina do Mistério' 1972",
         "price": 19999.99,
         "image": { "fields": { "file": { "url": "./images/scoobydoook.png" } } }
       }
