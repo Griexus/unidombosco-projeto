@@ -44,7 +44,7 @@
       "sys": { "id": "6" },
       "fields": {
         "title": "Volkswagen Beetle 'Herbie' 1963",
-        "price": 32.99,
+        "price": 32999.99,
         "image": { "fields": { "file": { "url": "./images/herbieok.png" } } }
       }
     },
