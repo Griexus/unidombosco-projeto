@@ -193,7 +193,7 @@ class UI {
     this.setCartItem(cart);
     Storage.setToLocalStorage("cart", cart);
     let button = this.getSingleButton(id);
-    button.innerHTML = `<i class="fas fa-shopping-cart"></i>add to Cart`;
+    button.innerHTML = `<i class="fas fa-shopping-cart"></i>Adicionar ao carrinho`;
     button.disabled = false;
     console.log(cart);
   }
