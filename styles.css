@@ -56,11 +56,11 @@ body {
 }
 
 .products {
-  padding: 4rem 0;
+  padding: 1rem 0;
 
 }
 .products-center {
-  width: 150vw;
+  width: 90vw;
   margin: 0 auto;
   max-width: 1170px;
   display: grid;
@@ -169,7 +169,7 @@ body {
   letter-spacing: var(--mainSpacing);
   margin-bottom: 2rem;
 }
-/*---------- Cart Item -------------------- */
+
 .cart-item {
   display: grid;
   align-items: center;
