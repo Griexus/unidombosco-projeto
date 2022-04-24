@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "DeLorean DMC-12 1982",
+        "price": 28999.99,
+        "image": { "fields": { "file": { "url": "./images/deloreanok.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Dodge Charger 'Batmóvel' 1968",
+        "price": 42899.99,
+        "image": { "fields": { "file": { "url": "./images/batmobileok.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Cadillac Miller-Meteor 'Ecto-1' 1959 ",
+        "price": 52399.99,
+        "image": { "fields": { "file": { "url": "./images/ghostok.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Ford Falcon 'Inteceptor' 1974",
+        "price": 27999.99,
+        "image": { "fields": { "file": { "url": "./images/interceptorok.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Aston Martin  DB5 1963",
+        "price": 79999.99,
+        "image": { "fields": { "file": { "url": "./images/007ok.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Volkswagen Beetle 'Herbie' 1963",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/herbie.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Pontiac Trans AM 'Super Máquina' 1982",
+        "price": 55999.99,
+        "image": { "fields": { "file": { "url": "./images/supermaquina.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Ford Econoline 'Máquina do Mistério' 1963",
+        "price": 19999.99,
+        "image": { "fields": { "file": { "url": "./images/scoobydoook.png" } } }
+      }
+    }
+  ]
+}
