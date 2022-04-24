@@ -56,7 +56,7 @@ class UI {
             />
             <button class="bag-btn" data-id="${id}">
               <i class="fas fa-shopping-cart"></i>
-              add to bag
+              adicionar ao carrinho
             </button>
           </div>
           <h3>${title}</h3>
@@ -109,7 +109,7 @@ class UI {
             <div>
               <h4>${title}</h4>
               <h5>$${price}</h5>
-              <span class="remove-item" data-id="${id}">remove</span>
+              <span class="remove-item" data-id="${id}">remover</span>
             </div>
             <div>
               <i class="fas fa-chevron-up" data-id="${id}"></i>
