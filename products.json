@@ -5,7 +5,7 @@
       "fields": {
         "title": "DeLorean DMC-12 1982",
         "price": 28999.99,
-        "image": { "fields": { "file": { "url": "./images/deloreanok.png" } } }
+        "image": { "fields": { "file": { "url": "./images/delorean2ok.png" } } }
       }
     },
     {
