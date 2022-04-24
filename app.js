@@ -74,11 +74,11 @@ class UI {
       let id = button.dataset.id;
       let inCart = cart.find((item) => item.id === id);
       if (inCart) {
-        button.innerText = "In The Cart";
+        button.innerText = "No Carrinho";
         button.disabled = true;
       }
       button.addEventListener("click", (e) => {
-        e.target.innerText = "In The Cart";
+        e.target.innerText = "No Carrinho";
         e.target.disabled = true;
         let item = Storage.getProductStorage(id);
         let newItem = { ...item, amount: 1 };
